@@ -1,0 +1,2 @@
+# Sonice-testnet
+sonic bot
